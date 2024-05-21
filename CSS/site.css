@@ -1,0 +1,204 @@
+﻿html, body {
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Poetsen One', Roboto;
+    font-weight:400;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+}
+
+@media (min-width: 768px) {
+    html, body {
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+.nextPrayerTime {
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+
+.dayTimings {
+    bottom: 0px;
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+.dayTimings table
+{
+    margin-left:auto;
+    margin-right: auto;
+    width: 1100px;
+}
+
+#nextPrayer, #todaysDate {
+    font-size: 30px;
+}
+
+#timeLeft {
+    font-size: 130px;
+    line-height: 150px;
+}
+
+#hijriDate {
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
+
+.prayer {
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+}
+
+.time {
+    font-size: 20px;
+    color: white;
+}
+
+.icon {
+    width: 90px;
+}
+
+.chooseCity
+{
+    position:absolute;
+    top: 0; 
+    margin: 5px; 
+    opacity: 0.2;
+}
+
+.dayTimings {
+    width: 100%; /* Full width of its container */
+    overflow-x: auto; /* Enables horizontal scrolling on smaller screens */
+}
+
+.dayTimings table {
+    width: 100%; /* Full width of its container */
+    max-width: 1100px;
+    border-collapse: collapse; /* Optional: for better border handling */
+}
+
+
+.dayTimings .prayer, .dayTimings .time {
+    text-align: center; /* Center the text within each cell */
+    margin: 5px 0; /* Space between text and other elements */
+}
+
+/* Responsive adjustments for medium screens */
+@media (max-width: 768px) {
+    .nextPrayerTime {
+        margin-top: 60px;
+    }
+
+    #nextPrayer
+    {
+        font-size: 18px; 
+        font-family: 'Roboto', sans-serif;       
+    }
+    #timeLeft
+    {
+        font-size: 50px; 
+        line-height: normal;
+    }
+    .dayTimings
+    { 
+        font-weight: 400; 
+        position: absolute;
+        width: 100%;
+        height: auto;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        bottom: 0px;
+        background: rgba(0, 0, 0, 0.2);
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    .dayTimings td {
+        
+        display: inline-block; 
+        width: 100%; 
+        box-sizing: border-box; 
+        padding: 10px; 
+        border-bottom: 1px solid #000; 
+        vertical-align: top; 
+    }
+    .icon{
+        display: none;
+    }
+    .dayTimings table tbody tr td {
+        display: flex;
+    };
+    .prayer, .time
+    {
+        line-height: 0px;
+        flex: 1; 
+        padding: 10px;
+    }
+    .prayer
+    {
+        width: 50%;
+        text-align: left !important;
+        padding-left: 30px;
+        text-shadow: #000 1px 0px 0px;
+    }
+    .time
+    {
+        width: 50%;
+        text-align: right !important;
+        padding-right: 30px;
+        text-shadow: #000 1px 0px 0px;
+    }
+    .dayTimings td {
+        border-bottom: 0px solid #000; 
+    }
+    .container
+    {
+        padding-left: 10px;
+        padding-right: 10px;
+    };
+    .dayTimings table tbody tr td{
+        padding: 15px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    #todaysDate
+    {
+        position: absolute;
+        bottom: 470px !important;
+        left:20px;
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;     
+    }
+    #hijriDate
+    {
+        position: absolute;
+        bottom: 450px !important;
+        left:20px;
+        font-size: 15px;
+    }
+    .currentPrayerTiming
+    {
+        background: rgba(255, 255, 255, 0.2);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+        border-radius: 15px;
+    }
+}
