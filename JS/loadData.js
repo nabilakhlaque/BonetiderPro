@@ -15,14 +15,12 @@ function loadCitySpecificScript(city) {
     if (city) {
         clearExistingScript();
 
-        const scriptSrc = `JS/Data/${capitalize(city)}.js`;
+        const scriptSrc = `JS/Data/${capitalize(city)}.js?v=10`;
         const scriptTag = document.createElement('script');
         scriptTag.src = scriptSrc;
 
         // Set a custom attribute to identify the script as city-specific
         scriptTag.setAttribute('data-city-script', city);
-        
-        
 
         scriptTag.onload = function() {
             console.log(`Loaded prayer times for ${city} successfully.`);
@@ -89,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (savedCity) {
         cityDropdown.value = savedCity;
     }
-
+    
     // Load the script for the initial selection (first option in the dropdown)
     loadCitySpecificScript(cityDropdown.value);
 

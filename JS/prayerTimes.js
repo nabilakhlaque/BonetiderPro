@@ -44,7 +44,7 @@ function populatePrayerTimes(prayerTimes) {
             { name: "Dhuhr", image: "Images/3.png" },
             { name: "Asr", image: "Images/4.png" },
             { name: "Maghrib", image: "Images/5.png" },
-            { name: "Isha", image: "Images/6.png" }
+            { name: "Ishaa", image: "Images/6.png" }
         ];
 
         let nextPrayerName = "";
@@ -59,6 +59,7 @@ function populatePrayerTimes(prayerTimes) {
             const icon = document.createElement("img");
             icon.src = prayer.image;
             icon.className = "icon";
+            icon.alt = todaysPrayerTimes[prayer.name];
             const prayerName = document.createElement("div");
             prayerName.className = "prayer";
             prayerName.textContent = prayer.name;
@@ -160,11 +161,11 @@ function setBackground(hour, min, todaysPrayerTimes) {
     } else if (currentTime >= todaysPrayerTimes["Asr"] && currentTime < todaysPrayerTimes["Maghrib"]) {
         currentPrayer = "Asr";
         document.body.style.background = "url('Images/blue.png') no-repeat center center fixed";
-    } else if (currentTime >= todaysPrayerTimes["Maghrib"] && currentTime < todaysPrayerTimes["Isha"]) {
+    } else if (currentTime >= todaysPrayerTimes["Maghrib"] && currentTime < todaysPrayerTimes["Ishaa"]) {
         currentPrayer = "Maghrib";
         document.body.style.background = "url('Images/orange.png') no-repeat center center fixed";
-    } else if (currentTime >= todaysPrayerTimes["Isha"]) {
-        currentPrayer = "Isha";
+    } else if (currentTime >= todaysPrayerTimes["Ishaa"]) {
+        currentPrayer = "Ishaa";
         document.body.style.background = "url('Images/purple.png') no-repeat center center fixed";
     } else if (currentTime >= '00:00' && currentTime < todaysPrayerTimes["Shuruk"]) {
         document.body.style.background = "url('Images/purple.png') no-repeat center center fixed";

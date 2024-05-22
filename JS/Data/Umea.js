@@ -7,7 +7,7 @@ prayerTimes = [
         "Dhuhr": "11:47",
         "Asr": "12:13",
         "Maghrib": "14:17",
-        "Isha": "16:59"
+        "Ishaa": "16:59"
     },
     {
         "Month": "1",
@@ -17,7 +17,7 @@ prayerTimes = [
         "Dhuhr": "11:48",
         "Asr": "12:14",
         "Maghrib": "14:18",
-        "Isha": "17:00"
+        "Ishaa": "17:00"
     },
     {
         "Month": "1",
@@ -27,7 +27,7 @@ prayerTimes = [
         "Dhuhr": "11:48",
         "Asr": "12:15",
         "Maghrib": "14:18",
-        "Isha": "17:01"
+        "Ishaa": "17:01"
     },
     {
         "Month": "1",
@@ -37,7 +37,7 @@ prayerTimes = [
         "Dhuhr": "11:49",
         "Asr": "12:17",
         "Maghrib": "14:19",
-        "Isha": "17:03"
+        "Ishaa": "17:03"
     },
     {
         "Month": "1",
@@ -47,7 +47,7 @@ prayerTimes = [
         "Dhuhr": "11:49",
         "Asr": "12:18",
         "Maghrib": "14:19",
-        "Isha": "17:04"
+        "Ishaa": "17:04"
     },
     {
         "Month": "1",
@@ -57,7 +57,7 @@ prayerTimes = [
         "Dhuhr": "11:49",
         "Asr": "12:19",
         "Maghrib": "14:19",
-        "Isha": "17:05"
+        "Ishaa": "17:05"
     },
     {
         "Month": "1",
@@ -67,7 +67,7 @@ prayerTimes = [
         "Dhuhr": "11:50",
         "Asr": "12:21",
         "Maghrib": "14:20",
-        "Isha": "17:07"
+        "Ishaa": "17:07"
     },
     {
         "Month": "1",
@@ -77,7 +77,7 @@ prayerTimes = [
         "Dhuhr": "11:50",
         "Asr": "12:22",
         "Maghrib": "14:20",
-        "Isha": "17:08"
+        "Ishaa": "17:08"
     },
     {
         "Month": "1",
@@ -87,7 +87,7 @@ prayerTimes = [
         "Dhuhr": "11:51",
         "Asr": "12:24",
         "Maghrib": "14:22",
-        "Isha": "17:10"
+        "Ishaa": "17:10"
     },
     {
         "Month": "1",
@@ -97,7 +97,7 @@ prayerTimes = [
         "Dhuhr": "11:51",
         "Asr": "12:25",
         "Maghrib": "14:25",
-        "Isha": "17:12"
+        "Ishaa": "17:12"
     },
     {
         "Month": "1",
@@ -107,7 +107,7 @@ prayerTimes = [
         "Dhuhr": "11:52",
         "Asr": "12:27",
         "Maghrib": "14:27",
-        "Isha": "17:13"
+        "Ishaa": "17:13"
     },
     {
         "Month": "1",
@@ -117,7 +117,7 @@ prayerTimes = [
         "Dhuhr": "11:52",
         "Asr": "12:28",
         "Maghrib": "14:30",
-        "Isha": "17:15"
+        "Ishaa": "17:15"
     },
     {
         "Month": "1",
@@ -127,7 +127,7 @@ prayerTimes = [
         "Dhuhr": "11:52",
         "Asr": "12:30",
         "Maghrib": "14:33",
-        "Isha": "17:17"
+        "Ishaa": "17:17"
     },
     {
         "Month": "1",
@@ -137,7 +137,7 @@ prayerTimes = [
         "Dhuhr": "11:53",
         "Asr": "12:32",
         "Maghrib": "14:36",
-        "Isha": "17:18"
+        "Ishaa": "17:18"
     },
     {
         "Month": "1",
@@ -147,7 +147,7 @@ prayerTimes = [
         "Dhuhr": "11:53",
         "Asr": "12:34",
         "Maghrib": "14:39",
-        "Isha": "17:20"
+        "Ishaa": "17:20"
     },
     {
         "Month": "1",
@@ -157,7 +157,7 @@ prayerTimes = [
         "Dhuhr": "11:53",
         "Asr": "12:35",
         "Maghrib": "14:42",
-        "Isha": "17:22"
+        "Ishaa": "17:22"
     },
     {
         "Month": "1",
@@ -167,7 +167,7 @@ prayerTimes = [
         "Dhuhr": "11:54",
         "Asr": "12:37",
         "Maghrib": "14:44",
-        "Isha": "17:24"
+        "Ishaa": "17:24"
     },
     {
         "Month": "1",
@@ -177,7 +177,7 @@ prayerTimes = [
         "Dhuhr": "11:54",
         "Asr": "12:39",
         "Maghrib": "14:48",
-        "Isha": "17:26"
+        "Ishaa": "17:26"
     },
     {
         "Month": "1",
@@ -187,7 +187,7 @@ prayerTimes = [
         "Dhuhr": "11:54",
         "Asr": "12:41",
         "Maghrib": "14:51",
-        "Isha": "17:28"
+        "Ishaa": "17:28"
     },
     {
         "Month": "1",
@@ -197,7 +197,7 @@ prayerTimes = [
         "Dhuhr": "11:55",
         "Asr": "12:43",
         "Maghrib": "14:54",
-        "Isha": "17:30"
+        "Ishaa": "17:30"
     },
     {
         "Month": "1",
@@ -207,7 +207,7 @@ prayerTimes = [
         "Dhuhr": "11:55",
         "Asr": "12:45",
         "Maghrib": "14:57",
-        "Isha": "17:32"
+        "Ishaa": "17:32"
     },
     {
         "Month": "1",
@@ -217,7 +217,7 @@ prayerTimes = [
         "Dhuhr": "11:55",
         "Asr": "12:47",
         "Maghrib": "15:00",
-        "Isha": "17:34"
+        "Ishaa": "17:34"
     },
     {
         "Month": "1",
@@ -227,7 +227,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "12:49",
         "Maghrib": "15:03",
-        "Isha": "17:36"
+        "Ishaa": "17:36"
     },
     {
         "Month": "1",
@@ -237,7 +237,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "12:51",
         "Maghrib": "15:06",
-        "Isha": "17:39"
+        "Ishaa": "17:39"
     },
     {
         "Month": "1",
@@ -247,7 +247,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "12:53",
         "Maghrib": "15:09",
-        "Isha": "17:41"
+        "Ishaa": "17:41"
     },
     {
         "Month": "1",
@@ -257,7 +257,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "12:55",
         "Maghrib": "15:13",
-        "Isha": "17:43"
+        "Ishaa": "17:43"
     },
     {
         "Month": "1",
@@ -267,7 +267,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "12:57",
         "Maghrib": "15:16",
-        "Isha": "17:45"
+        "Ishaa": "17:45"
     },
     {
         "Month": "1",
@@ -277,7 +277,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "12:59",
         "Maghrib": "15:19",
-        "Isha": "17:48"
+        "Ishaa": "17:48"
     },
     {
         "Month": "1",
@@ -287,7 +287,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "13:02",
         "Maghrib": "15:22",
-        "Isha": "17:50"
+        "Ishaa": "17:50"
     },
     {
         "Month": "1",
@@ -297,7 +297,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "13:04",
         "Maghrib": "15:26",
-        "Isha": "17:52"
+        "Ishaa": "17:52"
     },
     {
         "Month": "1",
@@ -307,7 +307,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "13:06",
         "Maghrib": "15:29",
-        "Isha": "17:55"
+        "Ishaa": "17:55"
     },
     {
         "Month": "2",
@@ -317,7 +317,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "13:08",
         "Maghrib": "15:32",
-        "Isha": "17:57"
+        "Ishaa": "17:57"
     },
     {
         "Month": "2",
@@ -327,7 +327,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:10",
         "Maghrib": "15:35",
-        "Isha": "18:00"
+        "Ishaa": "18:00"
     },
     {
         "Month": "2",
@@ -337,7 +337,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:12",
         "Maghrib": "15:39",
-        "Isha": "18:02"
+        "Ishaa": "18:02"
     },
     {
         "Month": "2",
@@ -347,7 +347,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:15",
         "Maghrib": "15:42",
-        "Isha": "18:05"
+        "Ishaa": "18:05"
     },
     {
         "Month": "2",
@@ -357,7 +357,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:17",
         "Maghrib": "15:45",
-        "Isha": "18:07"
+        "Ishaa": "18:07"
     },
     {
         "Month": "2",
@@ -367,7 +367,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:19",
         "Maghrib": "15:48",
-        "Isha": "18:10"
+        "Ishaa": "18:10"
     },
     {
         "Month": "2",
@@ -377,7 +377,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:21",
         "Maghrib": "15:52",
-        "Isha": "18:12"
+        "Ishaa": "18:12"
     },
     {
         "Month": "2",
@@ -387,7 +387,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:24",
         "Maghrib": "15:55",
-        "Isha": "18:15"
+        "Ishaa": "18:15"
     },
     {
         "Month": "2",
@@ -397,7 +397,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:26",
         "Maghrib": "15:58",
-        "Isha": "18:17"
+        "Ishaa": "18:17"
     },
     {
         "Month": "2",
@@ -407,7 +407,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:28",
         "Maghrib": "16:01",
-        "Isha": "18:20"
+        "Ishaa": "18:20"
     },
     {
         "Month": "2",
@@ -417,7 +417,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:30",
         "Maghrib": "16:05",
-        "Isha": "18:23"
+        "Ishaa": "18:23"
     },
     {
         "Month": "2",
@@ -427,7 +427,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:33",
         "Maghrib": "16:08",
-        "Isha": "18:25"
+        "Ishaa": "18:25"
     },
     {
         "Month": "2",
@@ -437,7 +437,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:35",
         "Maghrib": "16:11",
-        "Isha": "18:28"
+        "Ishaa": "18:28"
     },
     {
         "Month": "2",
@@ -447,7 +447,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:37",
         "Maghrib": "16:14",
-        "Isha": "18:31"
+        "Ishaa": "18:31"
     },
     {
         "Month": "2",
@@ -457,7 +457,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:39",
         "Maghrib": "16:18",
-        "Isha": "18:33"
+        "Ishaa": "18:33"
     },
     {
         "Month": "2",
@@ -467,7 +467,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:42",
         "Maghrib": "16:21",
-        "Isha": "18:36"
+        "Ishaa": "18:36"
     },
     {
         "Month": "2",
@@ -477,7 +477,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:44",
         "Maghrib": "16:24",
-        "Isha": "18:39"
+        "Ishaa": "18:39"
     },
     {
         "Month": "2",
@@ -487,7 +487,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:46",
         "Maghrib": "16:27",
-        "Isha": "18:42"
+        "Ishaa": "18:42"
     },
     {
         "Month": "2",
@@ -497,7 +497,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:48",
         "Maghrib": "16:30",
-        "Isha": "18:44"
+        "Ishaa": "18:44"
     },
     {
         "Month": "2",
@@ -507,7 +507,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:50",
         "Maghrib": "16:33",
-        "Isha": "18:47"
+        "Ishaa": "18:47"
     },
     {
         "Month": "2",
@@ -517,7 +517,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:53",
         "Maghrib": "16:36",
-        "Isha": "18:50"
+        "Ishaa": "18:50"
     },
     {
         "Month": "2",
@@ -527,7 +527,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:55",
         "Maghrib": "16:40",
-        "Isha": "18:53"
+        "Ishaa": "18:53"
     },
     {
         "Month": "2",
@@ -537,7 +537,7 @@ prayerTimes = [
         "Dhuhr": "11:58",
         "Asr": "13:57",
         "Maghrib": "16:43",
-        "Isha": "18:56"
+        "Ishaa": "18:56"
     },
     {
         "Month": "2",
@@ -547,7 +547,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "13:59",
         "Maghrib": "16:46",
-        "Isha": "18:59"
+        "Ishaa": "18:59"
     },
     {
         "Month": "2",
@@ -557,7 +557,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "14:01",
         "Maghrib": "16:49",
-        "Isha": "19:02"
+        "Ishaa": "19:02"
     },
     {
         "Month": "2",
@@ -567,7 +567,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "14:03",
         "Maghrib": "16:52",
-        "Isha": "19:05"
+        "Ishaa": "19:05"
     },
     {
         "Month": "2",
@@ -577,7 +577,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "14:06",
         "Maghrib": "16:55",
-        "Isha": "19:08"
+        "Ishaa": "19:08"
     },
     {
         "Month": "2",
@@ -587,7 +587,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "14:08",
         "Maghrib": "16:58",
-        "Isha": "19:11"
+        "Ishaa": "19:11"
     },
     {
         "Month": "2",
@@ -597,7 +597,7 @@ prayerTimes = [
         "Dhuhr": "11:57",
         "Asr": "14:10",
         "Maghrib": "17:01",
-        "Isha": "19:14"
+        "Ishaa": "19:14"
     },
     {
         "Month": "3",
@@ -607,7 +607,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "14:12",
         "Maghrib": "17:04",
-        "Isha": "19:17"
+        "Ishaa": "19:17"
     },
     {
         "Month": "3",
@@ -617,7 +617,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "14:14",
         "Maghrib": "17:07",
-        "Isha": "19:20"
+        "Ishaa": "19:20"
     },
     {
         "Month": "3",
@@ -627,7 +627,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "14:16",
         "Maghrib": "17:10",
-        "Isha": "19:23"
+        "Ishaa": "19:23"
     },
     {
         "Month": "3",
@@ -637,7 +637,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "14:18",
         "Maghrib": "17:13",
-        "Isha": "19:26"
+        "Ishaa": "19:26"
     },
     {
         "Month": "3",
@@ -647,7 +647,7 @@ prayerTimes = [
         "Dhuhr": "11:56",
         "Asr": "14:20",
         "Maghrib": "17:16",
-        "Isha": "19:29"
+        "Ishaa": "19:29"
     },
     {
         "Month": "3",
@@ -657,7 +657,7 @@ prayerTimes = [
         "Dhuhr": "11:55",
         "Asr": "14:22",
         "Maghrib": "17:19",
-        "Isha": "19:32"
+        "Ishaa": "19:32"
     },
     {
         "Month": "3",
@@ -667,7 +667,7 @@ prayerTimes = [
         "Dhuhr": "11:55",
         "Asr": "14:24",
         "Maghrib": "17:22",
-        "Isha": "19:35"
+        "Ishaa": "19:35"
     },
     {
         "Month": "3",
@@ -677,7 +677,7 @@ prayerTimes = [
         "Dhuhr": "11:55",
         "Asr": "14:26",
         "Maghrib": "17:25",
-        "Isha": "19:39"
+        "Ishaa": "19:39"
     },
     {
         "Month": "3",
@@ -687,7 +687,7 @@ prayerTimes = [
         "Dhuhr": "11:55",
         "Asr": "14:28",
         "Maghrib": "17:28",
-        "Isha": "19:42"
+        "Ishaa": "19:42"
     },
     {
         "Month": "3",
@@ -697,7 +697,7 @@ prayerTimes = [
         "Dhuhr": "11:54",
         "Asr": "14:30",
         "Maghrib": "17:31",
-        "Isha": "19:45"
+        "Ishaa": "19:45"
     },
     {
         "Month": "3",
@@ -707,7 +707,7 @@ prayerTimes = [
         "Dhuhr": "11:54",
         "Asr": "14:32",
         "Maghrib": "17:34",
-        "Isha": "19:49"
+        "Ishaa": "19:49"
     },
     {
         "Month": "3",
@@ -717,7 +717,7 @@ prayerTimes = [
         "Dhuhr": "11:54",
         "Asr": "14:34",
         "Maghrib": "17:37",
-        "Isha": "19:52"
+        "Ishaa": "19:52"
     },
     {
         "Month": "3",
@@ -727,7 +727,7 @@ prayerTimes = [
         "Dhuhr": "11:54",
         "Asr": "14:36",
         "Maghrib": "17:40",
-        "Isha": "19:55"
+        "Ishaa": "19:55"
     },
     {
         "Month": "3",
@@ -737,7 +737,7 @@ prayerTimes = [
         "Dhuhr": "11:53",
         "Asr": "14:38",
         "Maghrib": "17:43",
-        "Isha": "19:59"
+        "Ishaa": "19:59"
     },
     {
         "Month": "3",
@@ -747,7 +747,7 @@ prayerTimes = [
         "Dhuhr": "11:53",
         "Asr": "14:40",
         "Maghrib": "17:46",
-        "Isha": "20:02"
+        "Ishaa": "20:02"
     },
     {
         "Month": "3",
@@ -757,7 +757,7 @@ prayerTimes = [
         "Dhuhr": "11:53",
         "Asr": "14:42",
         "Maghrib": "17:49",
-        "Isha": "20:06"
+        "Ishaa": "20:06"
     },
     {
         "Month": "3",
@@ -767,7 +767,7 @@ prayerTimes = [
         "Dhuhr": "11:52",
         "Asr": "14:44",
         "Maghrib": "17:52",
-        "Isha": "20:10"
+        "Ishaa": "20:10"
     },
     {
         "Month": "3",
@@ -777,7 +777,7 @@ prayerTimes = [
         "Dhuhr": "11:52",
         "Asr": "14:46",
         "Maghrib": "17:55",
-        "Isha": "20:13"
+        "Ishaa": "20:13"
     },
     {
         "Month": "3",
@@ -787,7 +787,7 @@ prayerTimes = [
         "Dhuhr": "11:52",
         "Asr": "14:48",
         "Maghrib": "17:58",
-        "Isha": "20:17"
+        "Ishaa": "20:17"
     },
     {
         "Month": "3",
@@ -797,7 +797,7 @@ prayerTimes = [
         "Dhuhr": "11:52",
         "Asr": "14:49",
         "Maghrib": "18:01",
-        "Isha": "20:21"
+        "Ishaa": "20:21"
     },
     {
         "Month": "3",
@@ -807,7 +807,7 @@ prayerTimes = [
         "Dhuhr": "11:51",
         "Asr": "14:51",
         "Maghrib": "18:04",
-        "Isha": "20:24"
+        "Ishaa": "20:24"
     },
     {
         "Month": "3",
@@ -817,7 +817,7 @@ prayerTimes = [
         "Dhuhr": "11:51",
         "Asr": "14:53",
         "Maghrib": "18:07",
-        "Isha": "20:25"
+        "Ishaa": "20:25"
     },
     {
         "Month": "3",
@@ -827,7 +827,7 @@ prayerTimes = [
         "Dhuhr": "11:51",
         "Asr": "14:55",
         "Maghrib": "18:09",
-        "Isha": "20:26"
+        "Ishaa": "20:26"
     },
     {
         "Month": "3",
@@ -837,7 +837,7 @@ prayerTimes = [
         "Dhuhr": "11:50",
         "Asr": "14:57",
         "Maghrib": "18:12",
-        "Isha": "20:27"
+        "Ishaa": "20:27"
     },
     {
         "Month": "3",
@@ -847,7 +847,7 @@ prayerTimes = [
         "Dhuhr": "11:50",
         "Asr": "14:58",
         "Maghrib": "18:15",
-        "Isha": "20:28"
+        "Ishaa": "20:28"
     },
     {
         "Month": "3",
@@ -857,7 +857,7 @@ prayerTimes = [
         "Dhuhr": "11:50",
         "Asr": "15:00",
         "Maghrib": "18:18",
-        "Isha": "20:29"
+        "Ishaa": "20:29"
     },
     {
         "Month": "3",
@@ -867,7 +867,7 @@ prayerTimes = [
         "Dhuhr": "11:49",
         "Asr": "15:02",
         "Maghrib": "18:21",
-        "Isha": "20:30"
+        "Ishaa": "20:30"
     },
     {
         "Month": "3",
@@ -877,7 +877,7 @@ prayerTimes = [
         "Dhuhr": "11:49",
         "Asr": "15:04",
         "Maghrib": "18:24",
-        "Isha": "20:31"
+        "Ishaa": "20:31"
     },
     {
         "Month": "3",
@@ -887,7 +887,7 @@ prayerTimes = [
         "Dhuhr": "11:49",
         "Asr": "15:05",
         "Maghrib": "18:27",
-        "Isha": "20:31"
+        "Ishaa": "20:31"
     },
     {
         "Month": "3",
@@ -897,7 +897,7 @@ prayerTimes = [
         "Dhuhr": "11:49",
         "Asr": "15:07",
         "Maghrib": "18:30",
-        "Isha": "20:32"
+        "Ishaa": "20:32"
     },
     {
         "Month": "3",
@@ -907,7 +907,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "16:09",
         "Maghrib": "19:33",
-        "Isha": "21:33"
+        "Ishaa": "21:33"
     },
     {
         "Month": "4",
@@ -917,7 +917,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "16:10",
         "Maghrib": "19:36",
-        "Isha": "21:34"
+        "Ishaa": "21:34"
     },
     {
         "Month": "4",
@@ -927,7 +927,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "16:12",
         "Maghrib": "19:39",
-        "Isha": "21:35"
+        "Ishaa": "21:35"
     },
     {
         "Month": "4",
@@ -937,7 +937,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "16:14",
         "Maghrib": "19:42",
-        "Isha": "21:36"
+        "Ishaa": "21:36"
     },
     {
         "Month": "4",
@@ -947,7 +947,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "16:15",
         "Maghrib": "19:45",
-        "Isha": "21:37"
+        "Ishaa": "21:37"
     },
     {
         "Month": "4",
@@ -957,7 +957,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "16:17",
         "Maghrib": "19:48",
-        "Isha": "21:38"
+        "Ishaa": "21:38"
     },
     {
         "Month": "4",
@@ -967,7 +967,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "16:19",
         "Maghrib": "19:50",
-        "Isha": "21:39"
+        "Ishaa": "21:39"
     },
     {
         "Month": "4",
@@ -977,7 +977,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "16:20",
         "Maghrib": "19:53",
-        "Isha": "21:40"
+        "Ishaa": "21:40"
     },
     {
         "Month": "4",
@@ -987,7 +987,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "16:22",
         "Maghrib": "19:56",
-        "Isha": "21:41"
+        "Ishaa": "21:41"
     },
     {
         "Month": "4",
@@ -997,7 +997,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "16:23",
         "Maghrib": "19:59",
-        "Isha": "21:42"
+        "Ishaa": "21:42"
     },
     {
         "Month": "4",
@@ -1007,7 +1007,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "16:25",
         "Maghrib": "20:02",
-        "Isha": "21:43"
+        "Ishaa": "21:43"
     },
     {
         "Month": "4",
@@ -1017,7 +1017,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "16:27",
         "Maghrib": "20:05",
-        "Isha": "21:44"
+        "Ishaa": "21:44"
     },
     {
         "Month": "4",
@@ -1027,7 +1027,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "16:28",
         "Maghrib": "20:08",
-        "Isha": "21:46"
+        "Ishaa": "21:46"
     },
     {
         "Month": "4",
@@ -1037,7 +1037,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "16:30",
         "Maghrib": "20:11",
-        "Isha": "21:48"
+        "Ishaa": "21:48"
     },
     {
         "Month": "4",
@@ -1047,7 +1047,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "16:31",
         "Maghrib": "20:14",
-        "Isha": "21:49"
+        "Ishaa": "21:49"
     },
     {
         "Month": "4",
@@ -1057,7 +1057,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "16:33",
         "Maghrib": "20:17",
-        "Isha": "21:51"
+        "Ishaa": "21:51"
     },
     {
         "Month": "4",
@@ -1067,7 +1067,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "16:34",
         "Maghrib": "20:20",
-        "Isha": "21:53"
+        "Ishaa": "21:53"
     },
     {
         "Month": "4",
@@ -1077,7 +1077,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "16:35",
         "Maghrib": "20:23",
-        "Isha": "21:55"
+        "Ishaa": "21:55"
     },
     {
         "Month": "4",
@@ -1087,7 +1087,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "16:37",
         "Maghrib": "20:26",
-        "Isha": "21:57"
+        "Ishaa": "21:57"
     },
     {
         "Month": "4",
@@ -1097,7 +1097,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "16:38",
         "Maghrib": "20:29",
-        "Isha": "21:59"
+        "Ishaa": "21:59"
     },
     {
         "Month": "4",
@@ -1107,7 +1107,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "16:40",
         "Maghrib": "20:32",
-        "Isha": "22:01"
+        "Ishaa": "22:01"
     },
     {
         "Month": "4",
@@ -1117,7 +1117,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "16:41",
         "Maghrib": "20:36",
-        "Isha": "22:02"
+        "Ishaa": "22:02"
     },
     {
         "Month": "4",
@@ -1127,7 +1127,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "16:43",
         "Maghrib": "20:39",
-        "Isha": "22:04"
+        "Ishaa": "22:04"
     },
     {
         "Month": "4",
@@ -1137,7 +1137,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:44",
         "Maghrib": "20:42",
-        "Isha": "22:06"
+        "Ishaa": "22:06"
     },
     {
         "Month": "4",
@@ -1147,7 +1147,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:45",
         "Maghrib": "20:45",
-        "Isha": "22:08"
+        "Ishaa": "22:08"
     },
     {
         "Month": "4",
@@ -1157,7 +1157,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:47",
         "Maghrib": "20:48",
-        "Isha": "22:10"
+        "Ishaa": "22:10"
     },
     {
         "Month": "4",
@@ -1167,7 +1167,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:48",
         "Maghrib": "20:51",
-        "Isha": "22:12"
+        "Ishaa": "22:12"
     },
     {
         "Month": "4",
@@ -1177,7 +1177,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:49",
         "Maghrib": "20:54",
-        "Isha": "22:14"
+        "Ishaa": "22:14"
     },
     {
         "Month": "4",
@@ -1187,7 +1187,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:51",
         "Maghrib": "20:57",
-        "Isha": "22:16"
+        "Ishaa": "22:16"
     },
     {
         "Month": "4",
@@ -1197,7 +1197,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:52",
         "Maghrib": "21:00",
-        "Isha": "22:18"
+        "Ishaa": "22:18"
     },
     {
         "Month": "4",
@@ -1207,7 +1207,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:53",
         "Maghrib": "21:03",
-        "Isha": "22:20"
+        "Ishaa": "22:20"
     },
     {
         "Month": "5",
@@ -1217,7 +1217,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:55",
         "Maghrib": "21:07",
-        "Isha": "22:22"
+        "Ishaa": "22:22"
     },
     {
         "Month": "5",
@@ -1227,7 +1227,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:56",
         "Maghrib": "21:10",
-        "Isha": "22:24"
+        "Ishaa": "22:24"
     },
     {
         "Month": "5",
@@ -1237,7 +1237,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:57",
         "Maghrib": "21:13",
-        "Isha": "22:26"
+        "Ishaa": "22:26"
     },
     {
         "Month": "5",
@@ -1247,7 +1247,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:58",
         "Maghrib": "21:16",
-        "Isha": "22:28"
+        "Ishaa": "22:28"
     },
     {
         "Month": "5",
@@ -1257,7 +1257,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:00",
         "Maghrib": "21:19",
-        "Isha": "22:30"
+        "Ishaa": "22:30"
     },
     {
         "Month": "5",
@@ -1267,7 +1267,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:01",
         "Maghrib": "21:22",
-        "Isha": "22:32"
+        "Ishaa": "22:32"
     },
     {
         "Month": "5",
@@ -1277,7 +1277,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:02",
         "Maghrib": "21:26",
-        "Isha": "22:34"
+        "Ishaa": "22:34"
     },
     {
         "Month": "5",
@@ -1287,7 +1287,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:03",
         "Maghrib": "21:29",
-        "Isha": "22:36"
+        "Ishaa": "22:36"
     },
     {
         "Month": "5",
@@ -1297,7 +1297,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:04",
         "Maghrib": "21:32",
-        "Isha": "22:38"
+        "Ishaa": "22:38"
     },
     {
         "Month": "5",
@@ -1307,7 +1307,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:06",
         "Maghrib": "21:35",
-        "Isha": "22:40"
+        "Ishaa": "22:40"
     },
     {
         "Month": "5",
@@ -1317,7 +1317,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:07",
         "Maghrib": "21:38",
-        "Isha": "22:42"
+        "Ishaa": "22:42"
     },
     {
         "Month": "5",
@@ -1327,7 +1327,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:08",
         "Maghrib": "21:41",
-        "Isha": "22:44"
+        "Ishaa": "22:44"
     },
     {
         "Month": "5",
@@ -1337,7 +1337,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:09",
         "Maghrib": "21:45",
-        "Isha": "22:46"
+        "Ishaa": "22:46"
     },
     {
         "Month": "5",
@@ -1347,7 +1347,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:10",
         "Maghrib": "21:48",
-        "Isha": "22:48"
+        "Ishaa": "22:48"
     },
     {
         "Month": "5",
@@ -1357,7 +1357,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:11",
         "Maghrib": "21:51",
-        "Isha": "22:50"
+        "Ishaa": "22:50"
     },
     {
         "Month": "5",
@@ -1367,7 +1367,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:12",
         "Maghrib": "21:54",
-        "Isha": "22:52"
+        "Ishaa": "22:52"
     },
     {
         "Month": "5",
@@ -1377,7 +1377,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:13",
         "Maghrib": "21:57",
-        "Isha": "22:54"
+        "Ishaa": "22:54"
     },
     {
         "Month": "5",
@@ -1387,7 +1387,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "17:14",
         "Maghrib": "22:00",
-        "Isha": "22:57"
+        "Ishaa": "22:57"
     },
     {
         "Month": "5",
@@ -1397,7 +1397,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:15",
         "Maghrib": "22:04",
-        "Isha": "23:00"
+        "Ishaa": "23:00"
     },
     {
         "Month": "5",
@@ -1407,7 +1407,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:16",
         "Maghrib": "22:07",
-        "Isha": "23:02"
+        "Ishaa": "23:02"
     },
     {
         "Month": "5",
@@ -1417,7 +1417,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:17",
         "Maghrib": "22:10",
-        "Isha": "23:05"
+        "Ishaa": "23:05"
     },
     {
         "Month": "5",
@@ -1427,7 +1427,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:18",
         "Maghrib": "22:11",
-        "Isha": "23:05"
+        "Ishaa": "23:05"
     },
     {
         "Month": "5",
@@ -1437,7 +1437,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:19",
         "Maghrib": "22:11",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "5",
@@ -1447,7 +1447,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:20",
         "Maghrib": "22:11",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "5",
@@ -1457,7 +1457,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:21",
         "Maghrib": "22:11",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "5",
@@ -1467,7 +1467,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:22",
         "Maghrib": "22:11",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "5",
@@ -1477,7 +1477,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:23",
         "Maghrib": "22:11",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "5",
@@ -1487,7 +1487,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:24",
         "Maghrib": "22:11",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "5",
@@ -1497,7 +1497,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "17:25",
         "Maghrib": "22:11",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "5",
@@ -1507,7 +1507,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "17:25",
         "Maghrib": "22:12",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "5",
@@ -1517,7 +1517,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "17:26",
         "Maghrib": "22:12",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "6",
@@ -1527,7 +1527,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "17:27",
         "Maghrib": "22:12",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "6",
@@ -1537,7 +1537,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "17:28",
         "Maghrib": "22:12",
-        "Isha": "23:07"
+        "Ishaa": "23:07"
     },
     {
         "Month": "6",
@@ -1547,7 +1547,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "17:28",
         "Maghrib": "22:12",
-        "Isha": "23:07"
+        "Ishaa": "23:07"
     },
     {
         "Month": "6",
@@ -1557,7 +1557,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "17:29",
         "Maghrib": "22:12",
-        "Isha": "23:07"
+        "Ishaa": "23:07"
     },
     {
         "Month": "6",
@@ -1567,7 +1567,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "17:30",
         "Maghrib": "22:13",
-        "Isha": "23:07"
+        "Ishaa": "23:07"
     },
     {
         "Month": "6",
@@ -1577,7 +1577,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "17:30",
         "Maghrib": "22:13",
-        "Isha": "23:07"
+        "Ishaa": "23:07"
     },
     {
         "Month": "6",
@@ -1587,7 +1587,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "17:31",
         "Maghrib": "22:13",
-        "Isha": "23:07"
+        "Ishaa": "23:07"
     },
     {
         "Month": "6",
@@ -1597,7 +1597,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "17:32",
         "Maghrib": "22:13",
-        "Isha": "23:07"
+        "Ishaa": "23:07"
     },
     {
         "Month": "6",
@@ -1607,7 +1607,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "17:32",
         "Maghrib": "22:13",
-        "Isha": "23:08"
+        "Ishaa": "23:08"
     },
     {
         "Month": "6",
@@ -1617,7 +1617,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "17:33",
         "Maghrib": "22:14",
-        "Isha": "23:08"
+        "Ishaa": "23:08"
     },
     {
         "Month": "6",
@@ -1627,7 +1627,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "17:33",
         "Maghrib": "22:14",
-        "Isha": "23:08"
+        "Ishaa": "23:08"
     },
     {
         "Month": "6",
@@ -1637,7 +1637,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "17:34",
         "Maghrib": "22:14",
-        "Isha": "23:08"
+        "Ishaa": "23:08"
     },
     {
         "Month": "6",
@@ -1647,7 +1647,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "17:34",
         "Maghrib": "22:14",
-        "Isha": "23:08"
+        "Ishaa": "23:08"
     },
     {
         "Month": "6",
@@ -1657,7 +1657,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "17:35",
         "Maghrib": "22:14",
-        "Isha": "23:08"
+        "Ishaa": "23:08"
     },
     {
         "Month": "6",
@@ -1667,7 +1667,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "17:35",
         "Maghrib": "22:15",
-        "Isha": "23:09"
+        "Ishaa": "23:09"
     },
     {
         "Month": "6",
@@ -1677,7 +1677,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "17:35",
         "Maghrib": "22:15",
-        "Isha": "23:09"
+        "Ishaa": "23:09"
     },
     {
         "Month": "6",
@@ -1687,7 +1687,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "17:36",
         "Maghrib": "22:15",
-        "Isha": "23:09"
+        "Ishaa": "23:09"
     },
     {
         "Month": "6",
@@ -1697,7 +1697,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "17:36",
         "Maghrib": "22:15",
-        "Isha": "23:09"
+        "Ishaa": "23:09"
     },
     {
         "Month": "6",
@@ -1707,7 +1707,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "17:36",
         "Maghrib": "22:15",
-        "Isha": "23:09"
+        "Ishaa": "23:09"
     },
     {
         "Month": "6",
@@ -1717,7 +1717,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:09"
+        "Ishaa": "23:09"
     },
     {
         "Month": "6",
@@ -1727,7 +1727,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1737,7 +1737,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1747,7 +1747,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1757,7 +1757,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1767,7 +1767,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1777,7 +1777,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "17:38",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1787,7 +1787,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "17:38",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1797,7 +1797,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "17:38",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1807,7 +1807,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "17:38",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "6",
@@ -1817,7 +1817,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1827,7 +1827,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1837,7 +1837,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1847,7 +1847,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1857,7 +1857,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1867,7 +1867,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:37",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1877,7 +1877,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:36",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1887,7 +1887,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:36",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1897,7 +1897,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:36",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1907,7 +1907,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:35",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1917,7 +1917,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:35",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1927,7 +1927,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:34",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1937,7 +1937,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:34",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1947,7 +1947,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:33",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1957,7 +1957,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:33",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1967,7 +1967,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:32",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1977,7 +1977,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:32",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1987,7 +1987,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:31",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -1997,7 +1997,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:30",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -2007,7 +2007,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:30",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -2017,7 +2017,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:29",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -2027,7 +2027,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:28",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -2037,7 +2037,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:27",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -2047,7 +2047,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:26",
         "Maghrib": "22:16",
-        "Isha": "23:10"
+        "Ishaa": "23:10"
     },
     {
         "Month": "7",
@@ -2057,7 +2057,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:25",
         "Maghrib": "22:13",
-        "Isha": "23:08"
+        "Ishaa": "23:08"
     },
     {
         "Month": "7",
@@ -2067,7 +2067,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:24",
         "Maghrib": "22:10",
-        "Isha": "23:06"
+        "Ishaa": "23:06"
     },
     {
         "Month": "7",
@@ -2077,7 +2077,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:23",
         "Maghrib": "22:07",
-        "Isha": "23:04"
+        "Ishaa": "23:04"
     },
     {
         "Month": "7",
@@ -2087,7 +2087,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:22",
         "Maghrib": "22:04",
-        "Isha": "23:02"
+        "Ishaa": "23:02"
     },
     {
         "Month": "7",
@@ -2097,7 +2097,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:21",
         "Maghrib": "22:01",
-        "Isha": "23:00"
+        "Ishaa": "23:00"
     },
     {
         "Month": "7",
@@ -2107,7 +2107,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:20",
         "Maghrib": "21:58",
-        "Isha": "22:58"
+        "Ishaa": "22:58"
     },
     {
         "Month": "7",
@@ -2117,7 +2117,7 @@ prayerTimes = [
         "Dhuhr": "12:51",
         "Asr": "17:19",
         "Maghrib": "21:54",
-        "Isha": "22:56"
+        "Ishaa": "22:56"
     },
     {
         "Month": "7",
@@ -2127,7 +2127,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:18",
         "Maghrib": "21:51",
-        "Isha": "22:54"
+        "Ishaa": "22:54"
     },
     {
         "Month": "8",
@@ -2137,7 +2137,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:17",
         "Maghrib": "21:48",
-        "Isha": "22:52"
+        "Ishaa": "22:52"
     },
     {
         "Month": "8",
@@ -2147,7 +2147,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:15",
         "Maghrib": "21:45",
-        "Isha": "22:50"
+        "Ishaa": "22:50"
     },
     {
         "Month": "8",
@@ -2157,7 +2157,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:14",
         "Maghrib": "21:42",
-        "Isha": "22:47"
+        "Ishaa": "22:47"
     },
     {
         "Month": "8",
@@ -2167,7 +2167,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:13",
         "Maghrib": "21:38",
-        "Isha": "22:45"
+        "Ishaa": "22:45"
     },
     {
         "Month": "8",
@@ -2177,7 +2177,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:12",
         "Maghrib": "21:35",
-        "Isha": "22:43"
+        "Ishaa": "22:43"
     },
     {
         "Month": "8",
@@ -2187,7 +2187,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:10",
         "Maghrib": "21:32",
-        "Isha": "22:41"
+        "Ishaa": "22:41"
     },
     {
         "Month": "8",
@@ -2197,7 +2197,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:09",
         "Maghrib": "21:28",
-        "Isha": "22:39"
+        "Ishaa": "22:39"
     },
     {
         "Month": "8",
@@ -2207,7 +2207,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:07",
         "Maghrib": "21:25",
-        "Isha": "22:37"
+        "Ishaa": "22:37"
     },
     {
         "Month": "8",
@@ -2217,7 +2217,7 @@ prayerTimes = [
         "Dhuhr": "12:50",
         "Asr": "17:06",
         "Maghrib": "21:22",
-        "Isha": "22:34"
+        "Ishaa": "22:34"
     },
     {
         "Month": "8",
@@ -2227,7 +2227,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:04",
         "Maghrib": "21:18",
-        "Isha": "22:32"
+        "Ishaa": "22:32"
     },
     {
         "Month": "8",
@@ -2237,7 +2237,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:03",
         "Maghrib": "21:15",
-        "Isha": "22:30"
+        "Ishaa": "22:30"
     },
     {
         "Month": "8",
@@ -2247,7 +2247,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:01",
         "Maghrib": "21:11",
-        "Isha": "22:28"
+        "Ishaa": "22:28"
     },
     {
         "Month": "8",
@@ -2257,7 +2257,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "17:00",
         "Maghrib": "21:08",
-        "Isha": "22:25"
+        "Ishaa": "22:25"
     },
     {
         "Month": "8",
@@ -2267,7 +2267,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "16:58",
         "Maghrib": "21:05",
-        "Isha": "22:23"
+        "Ishaa": "22:23"
     },
     {
         "Month": "8",
@@ -2277,7 +2277,7 @@ prayerTimes = [
         "Dhuhr": "12:49",
         "Asr": "16:56",
         "Maghrib": "21:01",
-        "Isha": "22:21"
+        "Ishaa": "22:21"
     },
     {
         "Month": "8",
@@ -2287,7 +2287,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "16:55",
         "Maghrib": "20:58",
-        "Isha": "22:19"
+        "Ishaa": "22:19"
     },
     {
         "Month": "8",
@@ -2297,7 +2297,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "16:53",
         "Maghrib": "20:54",
-        "Isha": "22:16"
+        "Ishaa": "22:16"
     },
     {
         "Month": "8",
@@ -2307,7 +2307,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "16:51",
         "Maghrib": "20:51",
-        "Isha": "22:14"
+        "Ishaa": "22:14"
     },
     {
         "Month": "8",
@@ -2317,7 +2317,7 @@ prayerTimes = [
         "Dhuhr": "12:48",
         "Asr": "16:50",
         "Maghrib": "20:47",
-        "Isha": "22:12"
+        "Ishaa": "22:12"
     },
     {
         "Month": "8",
@@ -2327,7 +2327,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "16:48",
         "Maghrib": "20:44",
-        "Isha": "22:10"
+        "Ishaa": "22:10"
     },
     {
         "Month": "8",
@@ -2337,7 +2337,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "16:46",
         "Maghrib": "20:41",
-        "Isha": "22:07"
+        "Ishaa": "22:07"
     },
     {
         "Month": "8",
@@ -2347,7 +2347,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "16:44",
         "Maghrib": "20:37",
-        "Isha": "22:05"
+        "Ishaa": "22:05"
     },
     {
         "Month": "8",
@@ -2357,7 +2357,7 @@ prayerTimes = [
         "Dhuhr": "12:47",
         "Asr": "16:42",
         "Maghrib": "20:34",
-        "Isha": "22:03"
+        "Ishaa": "22:03"
     },
     {
         "Month": "8",
@@ -2367,7 +2367,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "16:40",
         "Maghrib": "20:30",
-        "Isha": "22:00"
+        "Ishaa": "22:00"
     },
     {
         "Month": "8",
@@ -2377,7 +2377,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "16:38",
         "Maghrib": "20:27",
-        "Isha": "21:58"
+        "Ishaa": "21:58"
     },
     {
         "Month": "8",
@@ -2387,7 +2387,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "16:36",
         "Maghrib": "20:23",
-        "Isha": "21:56"
+        "Ishaa": "21:56"
     },
     {
         "Month": "8",
@@ -2397,7 +2397,7 @@ prayerTimes = [
         "Dhuhr": "12:46",
         "Asr": "16:34",
         "Maghrib": "20:20",
-        "Isha": "21:53"
+        "Ishaa": "21:53"
     },
     {
         "Month": "8",
@@ -2407,7 +2407,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "16:32",
         "Maghrib": "20:16",
-        "Isha": "21:51"
+        "Ishaa": "21:51"
     },
     {
         "Month": "8",
@@ -2417,7 +2417,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "16:30",
         "Maghrib": "20:13",
-        "Isha": "21:49"
+        "Ishaa": "21:49"
     },
     {
         "Month": "8",
@@ -2427,7 +2427,7 @@ prayerTimes = [
         "Dhuhr": "12:45",
         "Asr": "16:28",
         "Maghrib": "20:09",
-        "Isha": "21:46"
+        "Ishaa": "21:46"
     },
     {
         "Month": "8",
@@ -2437,7 +2437,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "16:26",
         "Maghrib": "20:06",
-        "Isha": "21:44"
+        "Ishaa": "21:44"
     },
     {
         "Month": "9",
@@ -2447,7 +2447,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "16:24",
         "Maghrib": "20:02",
-        "Isha": "21:41"
+        "Ishaa": "21:41"
     },
     {
         "Month": "9",
@@ -2457,7 +2457,7 @@ prayerTimes = [
         "Dhuhr": "12:44",
         "Asr": "16:22",
         "Maghrib": "19:59",
-        "Isha": "21:40"
+        "Ishaa": "21:40"
     },
     {
         "Month": "9",
@@ -2467,7 +2467,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "16:20",
         "Maghrib": "19:55",
-        "Isha": "21:39"
+        "Ishaa": "21:39"
     },
     {
         "Month": "9",
@@ -2477,7 +2477,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "16:18",
         "Maghrib": "19:51",
-        "Isha": "21:38"
+        "Ishaa": "21:38"
     },
     {
         "Month": "9",
@@ -2487,7 +2487,7 @@ prayerTimes = [
         "Dhuhr": "12:43",
         "Asr": "16:16",
         "Maghrib": "19:48",
-        "Isha": "21:37"
+        "Ishaa": "21:37"
     },
     {
         "Month": "9",
@@ -2497,7 +2497,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:13",
         "Maghrib": "19:44",
-        "Isha": "21:36"
+        "Ishaa": "21:36"
     },
     {
         "Month": "9",
@@ -2507,7 +2507,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:11",
         "Maghrib": "19:41",
-        "Isha": "21:35"
+        "Ishaa": "21:35"
     },
     {
         "Month": "9",
@@ -2517,7 +2517,7 @@ prayerTimes = [
         "Dhuhr": "12:42",
         "Asr": "16:09",
         "Maghrib": "19:37",
-        "Isha": "21:34"
+        "Ishaa": "21:34"
     },
     {
         "Month": "9",
@@ -2527,7 +2527,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:07",
         "Maghrib": "19:34",
-        "Isha": "21:33"
+        "Ishaa": "21:33"
     },
     {
         "Month": "9",
@@ -2537,7 +2537,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:04",
         "Maghrib": "19:30",
-        "Isha": "21:31"
+        "Ishaa": "21:31"
     },
     {
         "Month": "9",
@@ -2547,7 +2547,7 @@ prayerTimes = [
         "Dhuhr": "12:41",
         "Asr": "16:02",
         "Maghrib": "19:27",
-        "Isha": "21:30"
+        "Ishaa": "21:30"
     },
     {
         "Month": "9",
@@ -2557,7 +2557,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "16:00",
         "Maghrib": "19:23",
-        "Isha": "21:29"
+        "Ishaa": "21:29"
     },
     {
         "Month": "9",
@@ -2567,7 +2567,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "15:58",
         "Maghrib": "19:20",
-        "Isha": "21:28"
+        "Ishaa": "21:28"
     },
     {
         "Month": "9",
@@ -2577,7 +2577,7 @@ prayerTimes = [
         "Dhuhr": "12:40",
         "Asr": "15:55",
         "Maghrib": "19:16",
-        "Isha": "21:27"
+        "Ishaa": "21:27"
     },
     {
         "Month": "9",
@@ -2587,7 +2587,7 @@ prayerTimes = [
         "Dhuhr": "12:39",
         "Asr": "15:53",
         "Maghrib": "19:13",
-        "Isha": "21:26"
+        "Ishaa": "21:26"
     },
     {
         "Month": "9",
@@ -2597,7 +2597,7 @@ prayerTimes = [
         "Dhuhr": "12:39",
         "Asr": "15:51",
         "Maghrib": "19:09",
-        "Isha": "21:25"
+        "Ishaa": "21:25"
     },
     {
         "Month": "9",
@@ -2607,7 +2607,7 @@ prayerTimes = [
         "Dhuhr": "12:39",
         "Asr": "15:48",
         "Maghrib": "19:06",
-        "Isha": "21:24"
+        "Ishaa": "21:24"
     },
     {
         "Month": "9",
@@ -2617,7 +2617,7 @@ prayerTimes = [
         "Dhuhr": "12:38",
         "Asr": "15:46",
         "Maghrib": "19:02",
-        "Isha": "21:23"
+        "Ishaa": "21:23"
     },
     {
         "Month": "9",
@@ -2627,7 +2627,7 @@ prayerTimes = [
         "Dhuhr": "12:38",
         "Asr": "15:43",
         "Maghrib": "18:59",
-        "Isha": "21:21"
+        "Ishaa": "21:21"
     },
     {
         "Month": "9",
@@ -2637,7 +2637,7 @@ prayerTimes = [
         "Dhuhr": "12:37",
         "Asr": "15:41",
         "Maghrib": "18:55",
-        "Isha": "21:18"
+        "Ishaa": "21:18"
     },
     {
         "Month": "9",
@@ -2647,7 +2647,7 @@ prayerTimes = [
         "Dhuhr": "12:37",
         "Asr": "15:38",
         "Maghrib": "18:51",
-        "Isha": "21:13"
+        "Ishaa": "21:13"
     },
     {
         "Month": "9",
@@ -2657,7 +2657,7 @@ prayerTimes = [
         "Dhuhr": "12:37",
         "Asr": "15:36",
         "Maghrib": "18:48",
-        "Isha": "21:09"
+        "Ishaa": "21:09"
     },
     {
         "Month": "9",
@@ -2667,7 +2667,7 @@ prayerTimes = [
         "Dhuhr": "12:36",
         "Asr": "15:34",
         "Maghrib": "18:44",
-        "Isha": "21:04"
+        "Ishaa": "21:04"
     },
     {
         "Month": "9",
@@ -2677,7 +2677,7 @@ prayerTimes = [
         "Dhuhr": "12:36",
         "Asr": "15:31",
         "Maghrib": "18:41",
-        "Isha": "21:00"
+        "Ishaa": "21:00"
     },
     {
         "Month": "9",
@@ -2687,7 +2687,7 @@ prayerTimes = [
         "Dhuhr": "12:36",
         "Asr": "15:29",
         "Maghrib": "18:37",
-        "Isha": "20:56"
+        "Ishaa": "20:56"
     },
     {
         "Month": "9",
@@ -2697,7 +2697,7 @@ prayerTimes = [
         "Dhuhr": "12:35",
         "Asr": "15:26",
         "Maghrib": "18:34",
-        "Isha": "20:51"
+        "Ishaa": "20:51"
     },
     {
         "Month": "9",
@@ -2707,7 +2707,7 @@ prayerTimes = [
         "Dhuhr": "12:35",
         "Asr": "15:24",
         "Maghrib": "18:30",
-        "Isha": "20:47"
+        "Ishaa": "20:47"
     },
     {
         "Month": "9",
@@ -2717,7 +2717,7 @@ prayerTimes = [
         "Dhuhr": "12:35",
         "Asr": "15:21",
         "Maghrib": "18:27",
-        "Isha": "20:43"
+        "Ishaa": "20:43"
     },
     {
         "Month": "9",
@@ -2727,7 +2727,7 @@ prayerTimes = [
         "Dhuhr": "12:34",
         "Asr": "15:19",
         "Maghrib": "18:23",
-        "Isha": "20:39"
+        "Ishaa": "20:39"
     },
     {
         "Month": "9",
@@ -2737,7 +2737,7 @@ prayerTimes = [
         "Dhuhr": "12:34",
         "Asr": "15:16",
         "Maghrib": "18:20",
-        "Isha": "20:35"
+        "Ishaa": "20:35"
     },
     {
         "Month": "10",
@@ -2747,7 +2747,7 @@ prayerTimes = [
         "Dhuhr": "12:34",
         "Asr": "15:14",
         "Maghrib": "18:16",
-        "Isha": "20:31"
+        "Ishaa": "20:31"
     },
     {
         "Month": "10",
@@ -2757,7 +2757,7 @@ prayerTimes = [
         "Dhuhr": "12:33",
         "Asr": "15:11",
         "Maghrib": "18:13",
-        "Isha": "20:27"
+        "Ishaa": "20:27"
     },
     {
         "Month": "10",
@@ -2767,7 +2767,7 @@ prayerTimes = [
         "Dhuhr": "12:33",
         "Asr": "15:09",
         "Maghrib": "18:09",
-        "Isha": "20:23"
+        "Ishaa": "20:23"
     },
     {
         "Month": "10",
@@ -2777,7 +2777,7 @@ prayerTimes = [
         "Dhuhr": "12:33",
         "Asr": "15:06",
         "Maghrib": "18:06",
-        "Isha": "20:19"
+        "Ishaa": "20:19"
     },
     {
         "Month": "10",
@@ -2787,7 +2787,7 @@ prayerTimes = [
         "Dhuhr": "12:32",
         "Asr": "15:04",
         "Maghrib": "18:02",
-        "Isha": "20:16"
+        "Ishaa": "20:16"
     },
     {
         "Month": "10",
@@ -2797,7 +2797,7 @@ prayerTimes = [
         "Dhuhr": "12:32",
         "Asr": "15:01",
         "Maghrib": "17:59",
-        "Isha": "20:12"
+        "Ishaa": "20:12"
     },
     {
         "Month": "10",
@@ -2807,7 +2807,7 @@ prayerTimes = [
         "Dhuhr": "12:32",
         "Asr": "14:59",
         "Maghrib": "17:55",
-        "Isha": "20:08"
+        "Ishaa": "20:08"
     },
     {
         "Month": "10",
@@ -2817,7 +2817,7 @@ prayerTimes = [
         "Dhuhr": "12:32",
         "Asr": "14:56",
         "Maghrib": "17:52",
-        "Isha": "20:05"
+        "Ishaa": "20:05"
     },
     {
         "Month": "10",
@@ -2827,7 +2827,7 @@ prayerTimes = [
         "Dhuhr": "12:31",
         "Asr": "14:54",
         "Maghrib": "17:49",
-        "Isha": "20:01"
+        "Ishaa": "20:01"
     },
     {
         "Month": "10",
@@ -2837,7 +2837,7 @@ prayerTimes = [
         "Dhuhr": "12:31",
         "Asr": "14:51",
         "Maghrib": "17:45",
-        "Isha": "19:57"
+        "Ishaa": "19:57"
     },
     {
         "Month": "10",
@@ -2847,7 +2847,7 @@ prayerTimes = [
         "Dhuhr": "12:31",
         "Asr": "14:48",
         "Maghrib": "17:42",
-        "Isha": "19:54"
+        "Ishaa": "19:54"
     },
     {
         "Month": "10",
@@ -2857,7 +2857,7 @@ prayerTimes = [
         "Dhuhr": "12:31",
         "Asr": "14:46",
         "Maghrib": "17:38",
-        "Isha": "19:51"
+        "Ishaa": "19:51"
     },
     {
         "Month": "10",
@@ -2867,7 +2867,7 @@ prayerTimes = [
         "Dhuhr": "12:30",
         "Asr": "14:43",
         "Maghrib": "17:35",
-        "Isha": "19:47"
+        "Ishaa": "19:47"
     },
     {
         "Month": "10",
@@ -2877,7 +2877,7 @@ prayerTimes = [
         "Dhuhr": "12:30",
         "Asr": "14:41",
         "Maghrib": "17:31",
-        "Isha": "19:44"
+        "Ishaa": "19:44"
     },
     {
         "Month": "10",
@@ -2887,7 +2887,7 @@ prayerTimes = [
         "Dhuhr": "12:30",
         "Asr": "14:38",
         "Maghrib": "17:28",
-        "Isha": "19:40"
+        "Ishaa": "19:40"
     },
     {
         "Month": "10",
@@ -2897,7 +2897,7 @@ prayerTimes = [
         "Dhuhr": "12:30",
         "Asr": "14:36",
         "Maghrib": "17:25",
-        "Isha": "19:37"
+        "Ishaa": "19:37"
     },
     {
         "Month": "10",
@@ -2907,7 +2907,7 @@ prayerTimes = [
         "Dhuhr": "12:29",
         "Asr": "14:33",
         "Maghrib": "17:21",
-        "Isha": "19:34"
+        "Ishaa": "19:34"
     },
     {
         "Month": "10",
@@ -2917,7 +2917,7 @@ prayerTimes = [
         "Dhuhr": "12:29",
         "Asr": "14:31",
         "Maghrib": "17:18",
-        "Isha": "19:31"
+        "Ishaa": "19:31"
     },
     {
         "Month": "10",
@@ -2927,7 +2927,7 @@ prayerTimes = [
         "Dhuhr": "12:29",
         "Asr": "14:29",
         "Maghrib": "17:14",
-        "Isha": "19:27"
+        "Ishaa": "19:27"
     },
     {
         "Month": "10",
@@ -2937,7 +2937,7 @@ prayerTimes = [
         "Dhuhr": "12:29",
         "Asr": "14:26",
         "Maghrib": "17:11",
-        "Isha": "19:24"
+        "Ishaa": "19:24"
     },
     {
         "Month": "10",
@@ -2947,7 +2947,7 @@ prayerTimes = [
         "Dhuhr": "12:29",
         "Asr": "14:24",
         "Maghrib": "17:08",
-        "Isha": "19:21"
+        "Ishaa": "19:21"
     },
     {
         "Month": "10",
@@ -2957,7 +2957,7 @@ prayerTimes = [
         "Dhuhr": "12:29",
         "Asr": "14:21",
         "Maghrib": "17:04",
-        "Isha": "19:18"
+        "Ishaa": "19:18"
     },
     {
         "Month": "10",
@@ -2967,7 +2967,7 @@ prayerTimes = [
         "Dhuhr": "12:28",
         "Asr": "14:19",
         "Maghrib": "17:01",
-        "Isha": "19:15"
+        "Ishaa": "19:15"
     },
     {
         "Month": "10",
@@ -2977,7 +2977,7 @@ prayerTimes = [
         "Dhuhr": "12:28",
         "Asr": "14:16",
         "Maghrib": "16:58",
-        "Isha": "19:12"
+        "Ishaa": "19:12"
     },
     {
         "Month": "10",
@@ -2987,7 +2987,7 @@ prayerTimes = [
         "Dhuhr": "12:28",
         "Asr": "14:14",
         "Maghrib": "16:54",
-        "Isha": "19:09"
+        "Ishaa": "19:09"
     },
     {
         "Month": "10",
@@ -2997,7 +2997,7 @@ prayerTimes = [
         "Dhuhr": "12:28",
         "Asr": "14:12",
         "Maghrib": "16:51",
-        "Isha": "19:06"
+        "Ishaa": "19:06"
     },
     {
         "Month": "10",
@@ -3007,7 +3007,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "13:09",
         "Maghrib": "15:48",
-        "Isha": "18:03"
+        "Ishaa": "18:03"
     },
     {
         "Month": "10",
@@ -3017,7 +3017,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "13:07",
         "Maghrib": "15:44",
-        "Isha": "18:01"
+        "Ishaa": "18:01"
     },
     {
         "Month": "10",
@@ -3027,7 +3027,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "13:05",
         "Maghrib": "15:41",
-        "Isha": "17:58"
+        "Ishaa": "17:58"
     },
     {
         "Month": "10",
@@ -3037,7 +3037,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "13:02",
         "Maghrib": "15:38",
-        "Isha": "17:55"
+        "Ishaa": "17:55"
     },
     {
         "Month": "10",
@@ -3047,7 +3047,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "13:00",
         "Maghrib": "15:35",
-        "Isha": "17:53"
+        "Ishaa": "17:53"
     },
     {
         "Month": "11",
@@ -3057,7 +3057,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:58",
         "Maghrib": "15:31",
-        "Isha": "17:50"
+        "Ishaa": "17:50"
     },
     {
         "Month": "11",
@@ -3067,7 +3067,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:56",
         "Maghrib": "15:28",
-        "Isha": "17:47"
+        "Ishaa": "17:47"
     },
     {
         "Month": "11",
@@ -3077,7 +3077,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:54",
         "Maghrib": "15:25",
-        "Isha": "17:45"
+        "Ishaa": "17:45"
     },
     {
         "Month": "11",
@@ -3087,7 +3087,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:51",
         "Maghrib": "15:22",
-        "Isha": "17:42"
+        "Ishaa": "17:42"
     },
     {
         "Month": "11",
@@ -3097,7 +3097,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:49",
         "Maghrib": "15:19",
-        "Isha": "17:40"
+        "Ishaa": "17:40"
     },
     {
         "Month": "11",
@@ -3107,7 +3107,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:47",
         "Maghrib": "15:16",
-        "Isha": "17:37"
+        "Ishaa": "17:37"
     },
     {
         "Month": "11",
@@ -3117,7 +3117,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:45",
         "Maghrib": "15:13",
-        "Isha": "17:35"
+        "Ishaa": "17:35"
     },
     {
         "Month": "11",
@@ -3127,7 +3127,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:43",
         "Maghrib": "15:10",
-        "Isha": "17:33"
+        "Ishaa": "17:33"
     },
     {
         "Month": "11",
@@ -3137,7 +3137,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:41",
         "Maghrib": "15:07",
-        "Isha": "17:31"
+        "Ishaa": "17:31"
     },
     {
         "Month": "11",
@@ -3147,7 +3147,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:39",
         "Maghrib": "15:04",
-        "Isha": "17:28"
+        "Ishaa": "17:28"
     },
     {
         "Month": "11",
@@ -3157,7 +3157,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:37",
         "Maghrib": "15:01",
-        "Isha": "17:26"
+        "Ishaa": "17:26"
     },
     {
         "Month": "11",
@@ -3167,7 +3167,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:35",
         "Maghrib": "14:58",
-        "Isha": "17:24"
+        "Ishaa": "17:24"
     },
     {
         "Month": "11",
@@ -3177,7 +3177,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:34",
         "Maghrib": "14:55",
-        "Isha": "17:22"
+        "Ishaa": "17:22"
     },
     {
         "Month": "11",
@@ -3187,7 +3187,7 @@ prayerTimes = [
         "Dhuhr": "11:28",
         "Asr": "12:32",
         "Maghrib": "14:52",
-        "Isha": "17:20"
+        "Ishaa": "17:20"
     },
     {
         "Month": "11",
@@ -3197,7 +3197,7 @@ prayerTimes = [
         "Dhuhr": "11:29",
         "Asr": "12:30",
         "Maghrib": "14:49",
-        "Isha": "17:18"
+        "Ishaa": "17:18"
     },
     {
         "Month": "11",
@@ -3207,7 +3207,7 @@ prayerTimes = [
         "Dhuhr": "11:29",
         "Asr": "12:28",
         "Maghrib": "14:46",
-        "Isha": "17:16"
+        "Ishaa": "17:16"
     },
     {
         "Month": "11",
@@ -3217,7 +3217,7 @@ prayerTimes = [
         "Dhuhr": "11:29",
         "Asr": "12:27",
         "Maghrib": "14:43",
-        "Isha": "17:14"
+        "Ishaa": "17:14"
     },
     {
         "Month": "11",
@@ -3227,7 +3227,7 @@ prayerTimes = [
         "Dhuhr": "11:29",
         "Asr": "12:25",
         "Maghrib": "14:41",
-        "Isha": "17:13"
+        "Ishaa": "17:13"
     },
     {
         "Month": "11",
@@ -3237,7 +3237,7 @@ prayerTimes = [
         "Dhuhr": "11:29",
         "Asr": "12:23",
         "Maghrib": "14:38",
-        "Isha": "17:11"
+        "Ishaa": "17:11"
     },
     {
         "Month": "11",
@@ -3247,7 +3247,7 @@ prayerTimes = [
         "Dhuhr": "11:30",
         "Asr": "12:22",
         "Maghrib": "14:35",
-        "Isha": "17:09"
+        "Ishaa": "17:09"
     },
     {
         "Month": "11",
@@ -3257,7 +3257,7 @@ prayerTimes = [
         "Dhuhr": "11:30",
         "Asr": "12:20",
         "Maghrib": "14:33",
-        "Isha": "17:08"
+        "Ishaa": "17:08"
     },
     {
         "Month": "11",
@@ -3267,7 +3267,7 @@ prayerTimes = [
         "Dhuhr": "11:30",
         "Asr": "12:19",
         "Maghrib": "14:30",
-        "Isha": "17:06"
+        "Ishaa": "17:06"
     },
     {
         "Month": "11",
@@ -3277,7 +3277,7 @@ prayerTimes = [
         "Dhuhr": "11:30",
         "Asr": "12:18",
         "Maghrib": "14:28",
-        "Isha": "17:05"
+        "Ishaa": "17:05"
     },
     {
         "Month": "11",
@@ -3287,7 +3287,7 @@ prayerTimes = [
         "Dhuhr": "11:31",
         "Asr": "12:16",
         "Maghrib": "14:25",
-        "Isha": "17:03"
+        "Ishaa": "17:03"
     },
     {
         "Month": "11",
@@ -3297,7 +3297,7 @@ prayerTimes = [
         "Dhuhr": "11:31",
         "Asr": "12:15",
         "Maghrib": "14:23",
-        "Isha": "17:02"
+        "Ishaa": "17:02"
     },
     {
         "Month": "11",
@@ -3307,7 +3307,7 @@ prayerTimes = [
         "Dhuhr": "11:31",
         "Asr": "12:14",
         "Maghrib": "14:21",
-        "Isha": "17:01"
+        "Ishaa": "17:01"
     },
     {
         "Month": "11",
@@ -3317,7 +3317,7 @@ prayerTimes = [
         "Dhuhr": "11:32",
         "Asr": "12:13",
         "Maghrib": "14:18",
-        "Isha": "17:00"
+        "Ishaa": "17:00"
     },
     {
         "Month": "11",
@@ -3327,7 +3327,7 @@ prayerTimes = [
         "Dhuhr": "11:32",
         "Asr": "12:12",
         "Maghrib": "14:16",
-        "Isha": "16:58"
+        "Ishaa": "16:58"
     },
     {
         "Month": "11",
@@ -3337,7 +3337,7 @@ prayerTimes = [
         "Dhuhr": "11:32",
         "Asr": "12:11",
         "Maghrib": "14:14",
-        "Isha": "16:57"
+        "Ishaa": "16:57"
     },
     {
         "Month": "11",
@@ -3347,7 +3347,7 @@ prayerTimes = [
         "Dhuhr": "11:33",
         "Asr": "12:10",
         "Maghrib": "14:12",
-        "Isha": "16:56"
+        "Ishaa": "16:56"
     },
     {
         "Month": "12",
@@ -3357,7 +3357,7 @@ prayerTimes = [
         "Dhuhr": "11:33",
         "Asr": "12:09",
         "Maghrib": "14:10",
-        "Isha": "16:55"
+        "Ishaa": "16:55"
     },
     {
         "Month": "12",
@@ -3367,7 +3367,7 @@ prayerTimes = [
         "Dhuhr": "11:33",
         "Asr": "12:08",
         "Maghrib": "14:08",
-        "Isha": "16:54"
+        "Ishaa": "16:54"
     },
     {
         "Month": "12",
@@ -3377,7 +3377,7 @@ prayerTimes = [
         "Dhuhr": "11:34",
         "Asr": "12:07",
         "Maghrib": "14:06",
-        "Isha": "16:54"
+        "Ishaa": "16:54"
     },
     {
         "Month": "12",
@@ -3387,7 +3387,7 @@ prayerTimes = [
         "Dhuhr": "11:34",
         "Asr": "12:07",
         "Maghrib": "14:04",
-        "Isha": "16:53"
+        "Ishaa": "16:53"
     },
     {
         "Month": "12",
@@ -3397,7 +3397,7 @@ prayerTimes = [
         "Dhuhr": "11:35",
         "Asr": "12:06",
         "Maghrib": "14:05",
-        "Isha": "16:52"
+        "Ishaa": "16:52"
     },
     {
         "Month": "12",
@@ -3407,7 +3407,7 @@ prayerTimes = [
         "Dhuhr": "11:35",
         "Asr": "12:05",
         "Maghrib": "14:05",
-        "Isha": "16:52"
+        "Ishaa": "16:52"
     },
     {
         "Month": "12",
@@ -3417,7 +3417,7 @@ prayerTimes = [
         "Dhuhr": "11:35",
         "Asr": "12:05",
         "Maghrib": "14:05",
-        "Isha": "16:51"
+        "Ishaa": "16:51"
     },
     {
         "Month": "12",
@@ -3427,7 +3427,7 @@ prayerTimes = [
         "Dhuhr": "11:36",
         "Asr": "12:04",
         "Maghrib": "14:06",
-        "Isha": "16:51"
+        "Ishaa": "16:51"
     },
     {
         "Month": "12",
@@ -3437,7 +3437,7 @@ prayerTimes = [
         "Dhuhr": "11:36",
         "Asr": "12:04",
         "Maghrib": "14:06",
-        "Isha": "16:50"
+        "Ishaa": "16:50"
     },
     {
         "Month": "12",
@@ -3447,7 +3447,7 @@ prayerTimes = [
         "Dhuhr": "11:37",
         "Asr": "12:04",
         "Maghrib": "14:07",
-        "Isha": "16:50"
+        "Ishaa": "16:50"
     },
     {
         "Month": "12",
@@ -3457,7 +3457,7 @@ prayerTimes = [
         "Dhuhr": "11:37",
         "Asr": "12:03",
         "Maghrib": "14:07",
-        "Isha": "16:49"
+        "Ishaa": "16:49"
     },
     {
         "Month": "12",
@@ -3467,7 +3467,7 @@ prayerTimes = [
         "Dhuhr": "11:38",
         "Asr": "12:03",
         "Maghrib": "14:08",
-        "Isha": "16:49"
+        "Ishaa": "16:49"
     },
     {
         "Month": "12",
@@ -3477,7 +3477,7 @@ prayerTimes = [
         "Dhuhr": "11:38",
         "Asr": "12:03",
         "Maghrib": "14:08",
-        "Isha": "16:49"
+        "Ishaa": "16:49"
     },
     {
         "Month": "12",
@@ -3487,7 +3487,7 @@ prayerTimes = [
         "Dhuhr": "11:39",
         "Asr": "12:03",
         "Maghrib": "14:09",
-        "Isha": "16:49"
+        "Ishaa": "16:49"
     },
     {
         "Month": "12",
@@ -3497,7 +3497,7 @@ prayerTimes = [
         "Dhuhr": "11:39",
         "Asr": "12:03",
         "Maghrib": "14:09",
-        "Isha": "16:49"
+        "Ishaa": "16:49"
     },
     {
         "Month": "12",
@@ -3507,7 +3507,7 @@ prayerTimes = [
         "Dhuhr": "11:40",
         "Asr": "12:03",
         "Maghrib": "14:10",
-        "Isha": "16:49"
+        "Ishaa": "16:49"
     },
     {
         "Month": "12",
@@ -3517,7 +3517,7 @@ prayerTimes = [
         "Dhuhr": "11:40",
         "Asr": "12:03",
         "Maghrib": "14:10",
-        "Isha": "16:49"
+        "Ishaa": "16:49"
     },
     {
         "Month": "12",
@@ -3527,7 +3527,7 @@ prayerTimes = [
         "Dhuhr": "11:41",
         "Asr": "12:04",
         "Maghrib": "14:11",
-        "Isha": "16:50"
+        "Ishaa": "16:50"
     },
     {
         "Month": "12",
@@ -3537,7 +3537,7 @@ prayerTimes = [
         "Dhuhr": "11:41",
         "Asr": "12:04",
         "Maghrib": "14:11",
-        "Isha": "16:50"
+        "Ishaa": "16:50"
     },
     {
         "Month": "12",
@@ -3547,7 +3547,7 @@ prayerTimes = [
         "Dhuhr": "11:42",
         "Asr": "12:04",
         "Maghrib": "14:12",
-        "Isha": "16:50"
+        "Ishaa": "16:50"
     },
     {
         "Month": "12",
@@ -3557,7 +3557,7 @@ prayerTimes = [
         "Dhuhr": "11:42",
         "Asr": "12:05",
         "Maghrib": "14:12",
-        "Isha": "16:51"
+        "Ishaa": "16:51"
     },
     {
         "Month": "12",
@@ -3567,7 +3567,7 @@ prayerTimes = [
         "Dhuhr": "11:43",
         "Asr": "12:05",
         "Maghrib": "14:13",
-        "Isha": "16:51"
+        "Ishaa": "16:51"
     },
     {
         "Month": "12",
@@ -3577,7 +3577,7 @@ prayerTimes = [
         "Dhuhr": "11:43",
         "Asr": "12:06",
         "Maghrib": "14:13",
-        "Isha": "16:52"
+        "Ishaa": "16:52"
     },
     {
         "Month": "12",
@@ -3587,7 +3587,7 @@ prayerTimes = [
         "Dhuhr": "11:44",
         "Asr": "12:07",
         "Maghrib": "14:14",
-        "Isha": "16:52"
+        "Ishaa": "16:52"
     },
     {
         "Month": "12",
@@ -3597,7 +3597,7 @@ prayerTimes = [
         "Dhuhr": "11:44",
         "Asr": "12:07",
         "Maghrib": "14:14",
-        "Isha": "16:53"
+        "Ishaa": "16:53"
     },
     {
         "Month": "12",
@@ -3607,7 +3607,7 @@ prayerTimes = [
         "Dhuhr": "11:45",
         "Asr": "12:08",
         "Maghrib": "14:15",
-        "Isha": "16:54"
+        "Ishaa": "16:54"
     },
     {
         "Month": "12",
@@ -3617,7 +3617,7 @@ prayerTimes = [
         "Dhuhr": "11:45",
         "Asr": "12:09",
         "Maghrib": "14:15",
-        "Isha": "16:55"
+        "Ishaa": "16:55"
     },
     {
         "Month": "12",
@@ -3627,7 +3627,7 @@ prayerTimes = [
         "Dhuhr": "11:46",
         "Asr": "12:10",
         "Maghrib": "14:16",
-        "Isha": "16:56"
+        "Ishaa": "16:56"
     },
     {
         "Month": "12",
@@ -3637,7 +3637,7 @@ prayerTimes = [
         "Dhuhr": "11:46",
         "Asr": "12:11",
         "Maghrib": "14:16",
-        "Isha": "16:57"
+        "Ishaa": "16:57"
     },
     {
         "Month": "12",
@@ -3647,7 +3647,7 @@ prayerTimes = [
         "Dhuhr": "11:47",
         "Asr": "12:12",
         "Maghrib": "14:17",
-        "Isha": "16:58"
+        "Ishaa": "16:58"
     },
     {
         "Month": "12",
@@ -3657,6 +3657,6 @@ prayerTimes = [
         "Dhuhr": "11:47",
         "Asr": "12:13",
         "Maghrib": "14:17",
-        "Isha": "16:59"
+        "Ishaa": "16:59"
     }
 ];

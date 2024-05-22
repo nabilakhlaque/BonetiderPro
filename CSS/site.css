@@ -108,6 +108,11 @@ body {
         border-radius: 15px;
 }
 
+.cityLabel
+{
+    display: none;
+}
+
 /* Responsive adjustments for medium screens */
 @media (max-width: 768px) {
     .nextPrayerTime {
