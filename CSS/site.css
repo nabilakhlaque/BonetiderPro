@@ -12,7 +12,7 @@ body {
     -moz-background-size: cover !important;
     -o-background-size: cover !important;
     background-size: cover !important;
-    background: hsla(159, 35%, 45%, 1);
+    background: rgb(255, 255, 255);
 }
 
 @media (min-width: 768px) {
@@ -215,4 +215,39 @@ body {
         -webkit-backdrop-filter: blur(5px);
         border-radius: 15px;
     }
+
+    .chooseCity
+    {
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 100;
+        position: absolute;
+        top: 25px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 150px;
+        height: 30px;
+        text-align: center;
+        text-align-last: center; 
+        opacity: 1;
+        background-color: transparent;
+        color:white;
+        border: 0;
+        text-shadow: 0px 1px 5px #000;
+
+    }
+    .chooseCity option { 
+        /* Whatever color  you want */
+        background-color: white;
+        color:black;
+        text-shadow: 0px 0px 0px transparent;
+    }
+    select {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        text-indent: 1px;
+        text-overflow: '';
+        text-shadow: 0px 0px 0px transparent;
+      }
 }
