@@ -57,6 +57,8 @@ function setCookie(name, value, days) {
         expires = "; expires=" + date.toUTCString();
     }
     document.cookie = name + "=" + (value || "")  + expires + "; path=/;domain=" + window.location.hostname;
+
+    console.log('Save ' + value + ' for ' + days + ' days.');
 }
 
 function getCookie(name) {

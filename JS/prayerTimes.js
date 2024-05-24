@@ -168,17 +168,20 @@ function setBackground(hour, min, todaysPrayerTimes) {
         currentPrayer = "Ishaa";
         document.body.style.background = "url('Images/purple.png') no-repeat center center fixed";
     } else if (currentTime >= '00:00' && currentTime < todaysPrayerTimes["Shuruk"]) {
+        currentPrayer = "Ishaa";
         document.body.style.background = "url('Images/purple.png') no-repeat center center fixed";
     } else {
         document.body.style.background = "url('Images/Blue.png') no-repeat center center fixed";
     }
 
+
     // Update the div content with the current prayer name
-    const currentPrayerDiv = document.getElementById(currentPrayer);
-    if (currentPrayerDiv) {
-        currentPrayerDiv.classList.add("currentPrayerTiming");
-    }
-    
+    if (currentPrayer != ''){
+        const currentPrayerDiv = document.getElementById(currentPrayer);
+        if (currentPrayerDiv) {
+            currentPrayerDiv.classList.add("currentPrayerTiming");
+        }
+    }  
 }
 
 // Function to refresh the page every minute
