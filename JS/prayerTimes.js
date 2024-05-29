@@ -13,6 +13,7 @@ let myFormat = 'en-u-ca-islamic-umalqura-nu-latn'; // use islamic-umalqura calen
 let myDate   = new Date(Date.now());  // today's date
 let hijiriDate   = new Intl.DateTimeFormat(myFormat,{dateStyle:'long'}).format(myDate);
 
+
 // Function to populate the table with prayer times
 function populatePrayerTimes(prayerTimes) {
     const tableBody = document.querySelector("table tbody");
